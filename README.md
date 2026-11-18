@@ -1,5 +1,7 @@
 # Protective Relay and SCADA Simulator
 
+[![tests](https://github.com/Wahid-y06/protective-relay-scada-simulator/actions/workflows/tests.yml/badge.svg)](https://github.com/Wahid-y06/protective-relay-scada-simulator/actions/workflows/tests.yml)
+
 A Python simulator of distribution-feeder protection: inverse-time
 overcurrent relays, circuit breakers, auto-reclosing and breaker-failure
 protection, with a SCADA-style operator console and a millisecond
